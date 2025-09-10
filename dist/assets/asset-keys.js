@@ -1,15 +1,86 @@
+export const BATTLE_BACKGROUND_ASSET_KEYS = Object.freeze({
+  FOREST: "FOREST",
+  COLLECTOR_ROOM: "COLLECTOR_ROOM",
+});
+
 export const BACKGROUND_ASSET_KEYS = Object.freeze({
   MENU: "MENU",
 });
 
-export const CHARACTER_ASSET_KEYS = Object.freeze({
-  MC: "MC",
+export const MONSTER_ASSET_KEYS = Object.freeze({
+  FROSTSABER: "FROSTSABER",
+  AQUAVALOR: "AQUAVALOR",
+});
+export const BATTLE_CHAR_ASSET_KEYS = Object.freeze({
+  SOLVED: "SOLVED",
+  LIA: "LIA",
+});
+export const VN_CHAR_ASSET_KEYS = Object.freeze({
+  SOLVED_VN: "SOLVED_VN",
+  LIA_VN: "LIA_VN",
+  POLICE_VN: "POLICE_VN",
 });
 
+export const BATTLE_ASSET_KEYS = Object.freeze({
+  HEALTH_BAR_BACKGROUND: "HEALTH_BAR_BACKGROUND",
+});
 export const ITEM_ASSET_KEYS = Object.freeze({
   ITEM1: "ITEM1",
 });
 
 export const MENU_ASSET_KEYS = Object.freeze({
   LOGO: "LOGO",
+  CHAPTER_SELECT_CARD: "CHAPTER_SELECT_CARD",
+  SETTING_CARD: "SETTING_CARD",
+  PANE: "PANE",
+});
+
+export const SETTING_MENU_ASSET_KEYS = Object.freeze({
+  SETTING_PANE: "SETTING_PANE",
+});
+
+export const SELECT_CHAPTER_ASSET_KEYS = Object.freeze({
+  CHAPTER_CARD: "CHAPTER_CARD",
+});
+
+export const BUTTON_ASSET_KEYS = Object.freeze({
+  BACK: "BACK",
+});
+export const HEALTH_BAR_ASSET_KEYS = Object.freeze({
+  LEFT_CAP: "LEFT_CAP",
+  MIDDLE: "MIDDLE",
+  RIGHT_CAP: "RIGHT_CAP",
+  LEFT_CAP_SHADOW: "LEFT_CAP_SHADOW",
+  MIDDLE_SHADOW: "MIDDLE_SHADOW",
+  RIGHT_CAP_SHADOW: "RIGHT_CAP_SHADOW",
+});
+
+export const UI_ASSET_KEYS = Object.freeze({
+  CURSOR: "CURSOR",
+  CURSOR_WHITE: "CURSOR_WHITE",
+});
+export const DATA_ASSET_KEYS = Object.freeze({
+  ATTACKS: "ATTACKS",
+  ANIMATIONS: "ANIMATIONS",
+  CASE_INTRO: "CASE_INTRO",
+});
+
+export const ATTACK_ASSET_KEYS = Object.freeze({
+  ICE_SHARD: "ICE_SHARD",
+  ICE_SHARD_START: "ICE_SHARD_START",
+  SLASH: "SLASH",
+});
+
+export const WORLD_ASSET_KEYS = Object.freeze({
+  WORLD_BACKGROUND: "WORLD_BACKGROUND",
+  WORLD_MAIN_LEVEL: "WORLD_MAIN_LEVEL",
+  WORLD_COLLISION: "WORLD_COLLISION",
+  WORLD_FOREGROUND: "WORLD_FOREGROUND",
+  WORLD_ENCOUNTER_ZONE: "WORLD_ENCOUNTER_ZONE",
+  WORLD_ORI_BG: "WORLD_ORI_BG",
+});
+export const CHARACTER_WORLD_ASSET_KEYS = Object.freeze({
+  PLAYER: "PLAYER",
+  NPC: "NPC",
+  SOLVED_WORLD: "SOLVED_WORLD",
 });

@@ -13,3 +13,14 @@ body,
   overflow: hidden;
   background: #d7d7d7;
 }
+
+@font-face {
+  font-family: Kenny-Future-Narrow;
+  src: url("../../assets/fonts/kenneys-fonts/Kenney-Future-Narrow.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: Pixelify;
+  src: url("../../assets/images/ori/font/PixelifySans-VariableFont_wght.ttf")
+    format("truetype");
+}

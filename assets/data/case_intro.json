@@ -1,0 +1,153 @@
+{
+  "id": "detective_case_intro",
+  "title": "Kasus Baru: Misteri Pengusaha",
+  "dialogs": [
+    {
+      "speaker": "Narasi",
+      "speakerType": "narrator",
+      "text": "Siang itu aku pikir akan berjalan tenang, hanya ditemani laporan lama dan secangkir kopi.",
+      "character": null,
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Narasi",
+      "speakerType": "narrator",
+      "text": "Tapi suara telepon itu mengubah semuanya.",
+      "character": null,
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Narasi",
+      "speakerType": "narrator",
+      "text": "Aku tahu, ada sesuatu yang tidak beres.",
+      "character": null,
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Detektif",
+      "speakerType": "character",
+      "text": "Halo, kantor detektif.",
+      "character": "detective",
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Detektif, ini dari kepolisian.",
+      "character": "police_officer",
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Aku butuh kau datang ke TKP sekarang.",
+      "character": "police_officer",
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Detektif",
+      "speakerType": "character",
+      "text": "Ada kasus dan kasus ini… kelihatannya sederhana, tapi ada yang janggal.",
+      "character": "detective",
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Tepat. Aku jelaskan setelah kau tiba di sana.",
+      "character": "police_officer",
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Detektif",
+      "speakerType": "character",
+      "text": "Baik. Aku berangkat.",
+      "character": "detective",
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Narasi",
+      "speakerType": "narrator",
+      "text": "Aku tidak tahu kasus macam apa yang menungguku.",
+      "character": null,
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Narasi",
+      "speakerType": "narrator",
+      "text": "Polisi itu sengaja tidak memberi detailnya lewat telepon.",
+      "character": null,
+      "background": "detective_office"
+    },
+    {
+      "speaker": "Narasi",
+      "speakerType": "narrator",
+      "text": " Dan kalau mereka sampai meminta bantuanku… berarti ada sesuatu yang tidak beres.",
+      "character": null,
+      "background": "transition"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Detektif, terima kasih sudah datang cepat.",
+      "character": "police_officer",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Korban bernama Guntur, seorang pengusaha furnitur sekaligus kolektor senjata api.",
+      "character": "police_officer",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Tadi pagi dia ditemukan meninggal di dalam ruang kerja pribadi miliknya.",
+      "character": "police_officer",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Detektif",
+      "speakerType": "character",
+      "text": "Dan bagaimana kondisinya?",
+      "character": "detective",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Di tangan kanannya ada pistol.",
+      "character": "police_officer",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": "Dari awal terlihat seperti bunuh diri, tapi… ada beberapa hal yang membuatku ragu.",
+      "character": "police_officer",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Polisi",
+      "speakerType": "character",
+      "text": " Kau akan mengerti setelah melihatnya sendiri.",
+      "character": "police_officer",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Detektif",
+      "speakerType": "character",
+      "text": "Bunuh diri di ruang tertutup.",
+      "character": "detective",
+      "background": "crime_scene"
+    },
+    {
+      "speaker": "Detektif",
+      "speakerType": "character",
+      "text": " Tapi keraguan polisi itu membuatku yakin… kebenarannya lebih rumit dari sekadar itu.",
+      "character": "detective",
+      "background": "crime_scene"
+    }
+  ]
+}

@@ -11,48 +11,48 @@ Game Project Assets:
 
 Battle System:
   [x] load game assets
-  ☐ create battle scene layout
-  ☐ create dialog menu
-  ☐ create option menu
-  ☐ create monster attack move list
-  ☐ handle player input
-  ☐ code optimization - move logic to components
-    ☐ create health component
-    ☐ create background component
-    ☐ create monster components
-  ☐ adding basic attack logic
-  ☐ taking damage and monster knock out
-  ☐ battle state machine
-    ☐ what is a finite state machine
-    ☐ review the battle states and what each one represents
-    ☐ implement each state
-    ☐ add item, flee, and monster states
-    ☐ player input improvements
-  ☐ battle scene polish
-    ☐ text animations
-    ☐ monster animations
-    ☐ skip animations
-    ☐ attack animations
-    ☐ scene transitions
-    ☐ custom fonts
+  [x] create battle scene layout
+  [x] create dialog menu
+  [x] create option menu
+  [x] create monster attack move list
+  [x] handle player input
+  [x] code optimization - move logic to components
+    [x] create health component
+    [x] create background component
+    [x] create monster components
+  [x] adding basic attack logic
+  [x] taking damage and monster knock out
+  [x] battle state machine
+    [x] what is a finite state machine
+    [x] review the battle states and what each one represents
+    [x] implement each state
+    [x] add item, flee, and monster states
+    [x] player input improvements
+  [x] battle scene polish
+    [x] text animations
+    [x] monster animations
+    [x] skip animations
+    [x] attack animations
+    [x] scene transitions
+    [x] custom fonts
 
 World Scene:
-  ☐ load level background
-  ☐ create player
-  ☐ handle player input
-  ☐ camera movement
-  ☐ handle grid based movement
-  ☐ handle collisions
-  ☐ add wild monster encounter logic
-  ☐ store player position in data manager
+  [x] load level background
+  [x] create player
+  [x] handle player input
+  [x] camera movement
+  [x] handle grid based movement
+  [x] handle collisions
+  [x] add wild monster encounter logic
+  [x] store player position in data manager
 
 Level Development With Tiled:
-  ☐ Basic level design concepts
-  ☐ Add collision layer
-  ☐ Add custom types to Tiled
-  ☐ Add game objects
-  ☐ Add npcs
-  ☐ Exporting level images and JSON
+  [x] Basic level design concepts
+  [x] Add collision layer
+  [x] Add custom types to Tiled
+  [x] Add game objects
+  [x] Add npcs
+  [x] Exporting level images and JSON
 
 World Scene Part 2:
   ☐ add interactive game objects

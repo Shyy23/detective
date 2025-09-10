@@ -36,6 +36,42 @@
     "assetKey": "PLAYER"
   },
   {
+    "key": "SOLVED_DOWN",
+    "frames": [0, 1, 2],
+    "frameRate": 6,
+    "repeat": -1,
+    "delay": 0,
+    "yoyo": true,
+    "assetKey": "SOLVED_WORLD"
+  },
+  {
+    "key": "SOLVED_RIGHT",
+    "frames": [6, 7, 8],
+    "frameRate": 6,
+    "repeat": -1,
+    "delay": 0,
+    "yoyo": true,
+    "assetKey": "SOLVED_WORLD"
+  },
+  {
+    "key": "SOLVED_LEFT",
+    "frames": [9, 10, 11],
+    "frameRate": 6,
+    "repeat": -1,
+    "delay": 0,
+    "yoyo": true,
+    "assetKey": "SOLVED_WORLD"
+  },
+  {
+    "key": "SOLVED_UP",
+    "frames": [3, 4, 5],
+    "frameRate": 6,
+    "repeat": -1,
+    "delay": 0,
+    "yoyo": true,
+    "assetKey": "SOLVED_WORLD"
+  },
+  {
     "key": "ICE_SHARD_START",
     "frameRate": 8,
     "repeat": 0,
